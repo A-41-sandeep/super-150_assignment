@@ -85,13 +85,15 @@ button{
 p{
     color: white;
 }
-.photography .contact
+.photography .contact .news
 {
-    display: flex;
+     
     color: white;
-    justify-content: center;
-    align-items: center;
+
+    display: flex;
+    justify-content:space-between;
 }
+
 .grid img:hover
 {
     opacity: 0.5;
@@ -99,10 +101,16 @@ p{
 }
 button:hover
 {
-    height: 70px;
+ height: 70px;
  width: 170px;
 }
 a:hover{
     color: blue;
     font-size: large;
+}
+input{
+    border-radius: 20px;
+    margin: 10px;
+    height: 30px;
+    width: 250px;
 }
