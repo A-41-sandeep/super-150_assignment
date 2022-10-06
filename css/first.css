@@ -66,13 +66,13 @@ button{
  background-color: #29d9d5;   
  border-radius: 30px;
 }
-.bottom img{
+.icon img{
     height: 30px;
     width: 30px;
     
 }
 .bottom{
-    height:400px;
+    height:200px;
     background-color: rgb(42, 42, 41);
     display: flex;
     justify-content:space-between;
